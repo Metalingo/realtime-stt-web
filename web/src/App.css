@@ -1,0 +1,32 @@
+#root {
+	max-width: 1200px;
+	width: 100vw;
+	margin: 0 auto;
+}
+
+.card {
+	margin-top: 12px;
+}
+
+.speech {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 12px;
+	margin-bottom: 8px;
+
+	background: #f3f3f3;
+	border-radius: 8px;
+}
+
+.transcript {
+	flex: 1;
+	font-size: 14px;
+	color: #111;
+}
+
+.timestamp {
+	color: #aaa;
+	font-size: 12px;
+	margin-right: 12px;
+}
