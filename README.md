@@ -4,16 +4,17 @@ real time stt implemented with google cloud & react(vite)
 
 ## Client
 
-> cd web
-> 
-> yarn
-> 
-> yarn dev
+```shell
+$ cd web
+$ yarn
+$ yarn dev
+```
 
 ## Server
 
-> cd server
-> 
-> yarn
-> 
-> yarn start
+
+```shell
+$ cd server
+$ yarn
+$ yarn start
+```
